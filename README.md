@@ -14,7 +14,7 @@
 
 - [Mesto](https://valeriiborisenko.github.io/mesto/) - учебный проект, написанный по методологии OOP. Это социальная сеть, где можно обмениваться фотографиями с другими пользователями.
 - [Mesto-react](https://valeriiborisenko.github.io/mesto-react/) - учебный проект Mesto, написанный на React. 
-- [Подкаст Катус](https://valeriiborisenko.github.io/Kaktus/) - сайт-визитка, созданная для моих друзей, которые ведут подкаст о кино.
+- [Подкаст Катус](https://valeriiborisenko.github.io/Kaktus/) - сайт-визитка, созданный для моих друзей, которые ведут подкаст о кино.
 
 ## Мой стек: ##
 <p>
